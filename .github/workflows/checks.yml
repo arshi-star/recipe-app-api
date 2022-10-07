@@ -1,4 +1,4 @@
-name : hecks
+name : Checks
 
 on: [push]
 
